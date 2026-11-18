@@ -67,7 +67,6 @@
 | Project | Description | Tech |
 |---|---|---|
 | [SKYBOUND: Lost Islands](https://github.com/RelleNo1) | Browser action RPG with 4 areas, quests, bosses, and a save system | JavaScript, Canvas, Web Audio |
-| [FoodOrderingApp](https://github.com/RelleNo1/FoodOrderingApp) | Food ordering app built for a mobile course | Kotlin, Jetpack Compose |
 
 <!-- Tambahkan baris proyek baru di sini setelah di-upload -->
 
