@@ -54,7 +54,6 @@
 - Unity and C# for game development
 - Game AI, especially NPC behavior for educational games
 - Android architecture (MVVM) and clean project structure
-- Writing better READMEs and documentation for my projects
 
 ## 🎯 Goals
 
